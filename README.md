@@ -1,5 +1,3 @@
-application deployed link: https://arl-brainstorm.netlify.app/
-
 # SpaceX Capsule Explorer
 
 Welcome to the SpaceX Capsule Explorer, a web application built using the MERN stack (MongoDB, Express, React, Node.js) that allows users to explore and manage SpaceX capsule data. This comprehensive application offers a range of features, including capsule search, filtering by active status, sorting by capsule series, and user authentication with private routing.
@@ -37,3 +35,5 @@ Welcome to the SpaceX Capsule Explorer, a web application built using the MERN s
 - **MongoDB Atlas:** Stored application data in the cloud with MongoDB Atlas, ensuring reliability and scalability.
 
 Explore the wonders of SpaceX capsules with our application and discover the fascinating world of space exploration. Feel free to contribute to the project, report issues, or suggest improvements. We welcome your participation in making this application even better.
+
+# application deployed link: https://arl-brainstorm.netlify.app/
