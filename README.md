@@ -34,6 +34,6 @@ Welcome to the SpaceX Capsule Explorer, a web application built using the MERN s
 
 - **MongoDB Atlas:** Stored application data in the cloud with MongoDB Atlas, ensuring reliability and scalability.
 
-Explore the wonders of SpaceX capsules with our application and discover the fascinating world of space exploration. Feel free to contribute to the project, report issues, or suggest improvements. We welcome your participation in making this application even better.
+Explore the wonders of SpaceX capsules with my application and discover the fascinating world of space exploration. Feel free to contribute to the project, report issues, or suggest improvements. I welcome your participation in making this application even better.
 
 # application deployed link: https://arl-brainstorm.netlify.app/
