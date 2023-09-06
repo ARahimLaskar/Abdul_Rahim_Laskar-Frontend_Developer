@@ -36,4 +36,5 @@ Welcome to the SpaceX Capsule Explorer, a web application built using the MERN s
 
 Explore the wonders of SpaceX capsules with my application and discover the fascinating world of space exploration. Feel free to contribute to the project, report issues, or suggest improvements. I welcome your participation in making this application even better.
 
+# Project presentation video link : https://drive.google.com/file/d/1fBjCWolJkYyT-qXxN4TU0Men5ppR-zMH/view?usp=sharing
 # application deployed link: https://arl-brainstorm.netlify.app/
